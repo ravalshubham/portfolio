@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('partials/head') %>
+<head>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <%- include('partials/nav') %>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: <%= data.contact.email %></p>
+    <p>LinkedIn: <a href="<%= data.contact.linkedin %>" target="_blank">Visit my profile</a></p>
+  </section>
+
+  <%- include('partials/footer') %>
+</body>
+</html>

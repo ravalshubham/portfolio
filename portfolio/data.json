@@ -1,0 +1,20 @@
+{
+  "name": "shubham raval",
+  "title": "Web Developer | Designer | Freelancer",
+  "about": "I'm a passionate developer who builds responsive websites.",
+  "skills": ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB"],
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "A responsive personal portfolio site."
+    },
+    {
+      "title": "To-Do App",
+      "description": "Simple app with tasks stored in localStorage."
+    }
+  ],
+  "contact": {
+    "email": "ravalshubham555@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/shubham-raval-0bb053293/"
+  }
+}
